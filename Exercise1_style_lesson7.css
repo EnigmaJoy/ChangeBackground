@@ -1,0 +1,31 @@
+body{
+    font-family: 'Bungee Spice', sans-serif;
+    background-color: #ffe70a8d;
+    display: grid;
+    place-items: center;
+}
+
+h1{
+    font-size: 200px;
+    text-align: center;
+}
+
+.button {
+    
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+.btn-1:hover {
+    
+    color: blueviolet;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    font-family: 'Bungee Spice', sans-serif;
+    
+}
